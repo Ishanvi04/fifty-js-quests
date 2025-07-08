@@ -77,7 +77,7 @@ This repo is where I solve **50 real-world JavaScript challenges** — from logi
 
 | # | Quest Title | Status |
 |---|-------------|--------|
-| 01 | Reverse a string | 🟡 |
+| 01 | Reverse a string | ✅ |
 | 02 | Palindrome checker | 🔲 |
 | 03 | FizzBuzz | 🔲 |
 | 04 | Capitalize every word | 🔲 |
