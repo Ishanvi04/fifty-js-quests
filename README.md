@@ -91,8 +91,8 @@ This repository is my personal challenge to solve **50 hands-on JavaScript probl
 | 03 | FizzBuzz                           | ✅     |
 | 04 | Capitalize every word              | ✅     |
 | 05 | Count vowels & consonants          | ✅     |
-| 06 | Recursion sum of array             | 🟡     |
-| 07 | Frequency counter                  | 🔲     |
+| 06 | Recursion sum of array             | ✅     |
+| 07 | Frequency counter                  | 🟡     |
 | 08 | Find second largest                | 🔲     |
 | 09 | Flatten nested array               | 🔲     |
 | 10 | Remove duplicates                  | 🔲     |
